@@ -23,6 +23,5 @@ In this project, a comprehensive analysis is conducted on the Amazon Sales datas
 
 -  **Amazon Sales Analysis.ipynb** - IPYNB File - Python file with all the data analysis
 -  **Amazon Sales Analysis.pdf** - PDF File - PDF version of python file
--  **Amazon Sales Recording** - MP4 File - Video recording explaining the complete analysis step by step
 -  **Amazon Sales data** - Excel File - Raw data of Amazon sales
 -  **Amazon Sales Analysis.pptx** - PPT File - Presentation on the analysis
